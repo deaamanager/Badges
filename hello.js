@@ -1,1 +1,1 @@
-consel.log("hello badges")
+const pair = "extraordini";
